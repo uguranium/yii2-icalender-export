@@ -1,0 +1,27 @@
+{
+  "name": "uguranyum/yii2-icalender-export",
+  "description": "Database iCalender export for the Yii framework!",
+  "keywords": [
+    "numbers",
+    "currency",
+    "spell"
+  ],
+  "type": "extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ugur",
+      "email": "uguranyum@yandex.com"
+    }
+  ],
+
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "uguranyum\\icalenderexport\\": ""
+    }
+  }
+}
